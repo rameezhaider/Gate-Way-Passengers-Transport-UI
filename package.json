@@ -1,11 +1,11 @@
 {
-  "name": "material-kit-2-react",
+  "name": "Gate Way Passengers Transport",
   "version": "2.0.0",
+  "homepage":"https://sumtech3d.com/mockup2023",
   "private": true,
-  "author": "Creative Tim",
+  "author": "Syed Rameez Haider",
   "license": "See license in https://www.creative-tim.com/license",
   "description": "React version of Material Kit 2 by Creative Tim",
-  "homepage": "https://demos.creative-tim.com/material-kit-react/#/",
   "bugs": {
     "url": "https://github.com/creativetimofficial/ct-material-kit-react/issues"
   },
@@ -18,8 +18,8 @@
     "npm": ">=6"
   },
   "dependencies": {
-    "@emotion/cache": "11.4.0",
-    "@emotion/react": "^11.5.0",
+    "@emotion/cache": "11.5.0",
+    "@emotion/react": "11.5.0",
     "@emotion/styled": "11.3.0",
     "@mui/icons-material": "5.2.0",
     "@mui/material": "5.2.0",

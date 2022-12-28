@@ -32,6 +32,7 @@ import footerRoutes from "footer.routes";
 
 // Images
 import bgImage from "assets/images/bg-presentation1.jpg";
+import logo from "assets/images/GWPT.png";
 
 function Presentation() {
   return (
